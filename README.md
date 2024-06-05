@@ -1,2 +1,1 @@
-# Reinforcement_Learning_Benchmark
- Benchmarking of multiple reinforcement learning techniques
+# Analyzing and Comparing Reinforcement Learning Approaches: Study and Benchmarking
